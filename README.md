@@ -1,5 +1,5 @@
 # springboot-test-app
-This project demonstrates usage of spring boot, REST API and other spring modules
+This project demonstrates usage of spring boot, REST API and other spring modules. It's gradle based project.
 
 
 Initial Spring boot Code is generated from below site:
