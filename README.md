@@ -22,7 +22,9 @@ Below Eclipse IDE for Enterprise Java and Web Developers is used for development
 **Version: 2026-06 (4.40.0)
 Build id: 20260604-0653**
 
-Once you run this spring boot application within Eclipse, you can test using below URL's from Browser:
+------------------------------------------------------------------------------------------------------------------------------
+**Running API URL:**
+Once you run this spring boot application within Eclipse, you can test using below API URL's from Browser:
 
 http://localhost:8080/greet
 
@@ -37,4 +39,23 @@ Below will be output for URL **http://localhost:8080/greet**
 Below will be output for URL **http://localhost:8080/greet?name=Amit**
 
 **Good Morning Amit**
+---------------------------------------------------------------------------------------------------------------------------------
 
+------------------------------------------------------------------------------------------------------------------------------
+**Running Web Application URL:**
+Once you run this spring boot application within Eclipse, you can test using below web application URL's from Browser:
+
+http://localhost:8080/index
+
+http://localhost:8080/welcome
+
+
+Below will be output for URL **http://localhost:8080/index**
+
+**index.html file output will be displayed on the browser**
+
+
+Below will be output for URL **http://localhost:8080/welcome**
+
+**welcome.html file output will be displayed on the browser**
+---------------------------------------------------------------------------------------------------------------------------------
