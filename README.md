@@ -26,6 +26,7 @@ Below Git Bash is used for develoment:
 **Git-2.55.0.4-64-bit**
 
 Once you install JDK, Gradle, GIT on your machine, check version of each software using below commands in command prompt:
+
 java -version
 
 gradle -version
